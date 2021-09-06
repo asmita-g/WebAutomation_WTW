@@ -1,0 +1,32 @@
+2021-09-06 12:12:25,305 :INFO : test_wtw :Relevancy
+2021-09-06 12:12:28,263 :INFO : test_wtw :True
+2021-09-06 12:12:28,264 :INFO : test_wtw :Taking out the sting
+2021-09-06 12:12:28,310 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2020/02/latest-updates-on-ifrs-17-insurance-contracts
+2021-09-06 12:12:28,355 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2017/01/Turning-IFRS-17-into-a-success-story
+2021-09-06 12:12:28,389 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2019/04/finance-and-process-transformation-finding-the-silver-lining-in-IFRS-17
+2021-09-06 12:12:28,425 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2019/01/finance-and-process-transformation-how-to-find-the-silver-lining-in-IFRS-17
+2021-09-06 12:12:28,464 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2018/02/ifrs-17-nine-steps-to-avoiding-a-reporting-crisis
+2021-09-06 12:12:28,501 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2019/07/banishing-the-ifrs17-blues
+2021-09-06 12:12:28,535 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2019/05/IFRS17-a-question-of-timing
+2021-09-06 12:12:28,576 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2018/12/IFRS17-IASB-agrees-to-portfolio-basis-for-presentation-but-opposes-other-changes
+2021-09-06 12:12:28,610 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2020/09/cloud-technology-takes-centre-stage
+2021-09-06 12:12:28,645 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2017/11/emphasis-2017-2-turn-unworkable-reporting-processes-into-unstoppable-systems-successes
+2021-09-06 12:12:28,657 :INFO : test_wtw :['https://www.willistowerswatson.com/en-US/Insights/2020/02/latest-updates-on-ifrs-17-insurance-contracts', 'https://www.willistowerswatson.com/en-US/Insights/2017/01/Turning-IFRS-17-into-a-success-story', 'https://www.willistowerswatson.com/en-US/Insights/2019/04/finance-and-process-transformation-finding-the-silver-lining-in-IFRS-17', 'https://www.willistowerswatson.com/en-US/Insights/2019/01/finance-and-process-transformation-how-to-find-the-silver-lining-in-IFRS-17', 'https://www.willistowerswatson.com/en-US/Insights/2018/02/ifrs-17-nine-steps-to-avoiding-a-reporting-crisis', 'https://www.willistowerswatson.com/en-US/Insights/2019/07/banishing-the-ifrs17-blues', 'https://www.willistowerswatson.com/en-US/Insights/2019/05/IFRS17-a-question-of-timing', 'https://www.willistowerswatson.com/en-US/Insights/2018/12/IFRS17-IASB-agrees-to-portfolio-basis-for-presentation-but-opposes-other-changes', 'https://www.willistowerswatson.com/en-US/Insights/2020/09/cloud-technology-takes-centre-stage', 'https://www.willistowerswatson.com/en-US/Insights/2017/11/emphasis-2017-2-turn-unworkable-reporting-processes-into-unstoppable-systems-successes']
+2021-09-06 12:12:30,802 :INFO : test_wtw :Taking out the sting
+2021-09-06 12:12:30,873 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2019/11/how-to-make-mortality-improvement-assumptions-a-model-of-consistency
+2021-09-06 12:12:30,906 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2017/09/switzerland-changes-to-section-1e-top-up-retirement-plans
+2021-09-06 12:12:30,933 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2021/04/powering-growth-strengthening-resilience-helping-insurers-innovate-transform-and-thrive
+2021-09-06 12:12:30,942 :INFO : test_wtw :['https://www.willistowerswatson.com/en-US/Insights/2020/02/latest-updates-on-ifrs-17-insurance-contracts', 'https://www.willistowerswatson.com/en-US/Insights/2017/01/Turning-IFRS-17-into-a-success-story', 'https://www.willistowerswatson.com/en-US/Insights/2019/04/finance-and-process-transformation-finding-the-silver-lining-in-IFRS-17', 'https://www.willistowerswatson.com/en-US/Insights/2019/01/finance-and-process-transformation-how-to-find-the-silver-lining-in-IFRS-17', 'https://www.willistowerswatson.com/en-US/Insights/2018/02/ifrs-17-nine-steps-to-avoiding-a-reporting-crisis', 'https://www.willistowerswatson.com/en-US/Insights/2019/07/banishing-the-ifrs17-blues', 'https://www.willistowerswatson.com/en-US/Insights/2019/05/IFRS17-a-question-of-timing', 'https://www.willistowerswatson.com/en-US/Insights/2018/12/IFRS17-IASB-agrees-to-portfolio-basis-for-presentation-but-opposes-other-changes', 'https://www.willistowerswatson.com/en-US/Insights/2020/09/cloud-technology-takes-centre-stage', 'https://www.willistowerswatson.com/en-US/Insights/2017/11/emphasis-2017-2-turn-unworkable-reporting-processes-into-unstoppable-systems-successes', 'https://www.willistowerswatson.com/en-US/Insights/2019/11/how-to-make-mortality-improvement-assumptions-a-model-of-consistency', 'https://www.willistowerswatson.com/en-US/Insights/2017/09/switzerland-changes-to-section-1e-top-up-retirement-plans', 'https://www.willistowerswatson.com/en-US/Insights/2021/04/powering-growth-strengthening-resilience-helping-insurers-innovate-transform-and-thrive']
+2021-09-06 12:12:30,954 :INFO : test_wtw :Assert check
+2021-09-06 12:12:30,955 :INFO : test_wtw :Assert check
+2021-09-06 12:12:30,955 :INFO : test_wtw :Assert check
+2021-09-06 12:12:30,955 :INFO : test_wtw :Assert check
+2021-09-06 12:12:30,956 :INFO : test_wtw :Assert check
+2021-09-06 12:12:30,956 :INFO : test_wtw :Assert check
+2021-09-06 12:12:30,956 :INFO : test_wtw :Assert check
+2021-09-06 12:12:30,956 :INFO : test_wtw :Assert check
+2021-09-06 12:12:30,956 :INFO : test_wtw :Assert check
+2021-09-06 12:12:30,956 :INFO : test_wtw :Assert check
+2021-09-06 12:12:30,956 :INFO : test_wtw :Assert check
+2021-09-06 12:12:30,956 :INFO : test_wtw :Assert check
+2021-09-06 12:12:30,956 :INFO : test_wtw :Assert check
