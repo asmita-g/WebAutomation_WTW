@@ -361,3 +361,41 @@
 2021-09-06 13:07:24,619 :INFO : test_wtw :String compare is Passed
 2021-09-06 13:07:24,620 :INFO : test_wtw :String compare is Passed
 2021-09-06 13:07:24,620 :INFO : test_wtw :String compare is Passed
+2021-09-06 13:14:42,970 :INFO : test_wtw :Select US English Language
+2021-09-06 13:14:45,475 :INFO : test_wtw :Search for text IFRS 17
+2021-09-06 13:14:48,633 :INFO : test_wtw :Arrived on Results Page
+2021-09-06 13:14:48,674 :INFO : test_wtw :Relevancy
+2021-09-06 13:14:48,693 :INFO : test_wtw :Results need to be sorted by Date
+2021-09-06 13:14:48,790 :INFO : test_wtw :Results are sorted by Date now
+2021-09-06 13:14:49,004 :INFO : test_wtw :Filter content by Article
+2021-09-06 13:14:49,723 :INFO : test_wtw :True
+2021-09-06 13:14:49,723 :INFO : test_wtw :Taking out the string to be validated in each article
+2021-09-06 13:14:49,775 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2020/02/latest-updates-on-ifrs-17-insurance-contracts
+2021-09-06 13:14:49,815 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2017/01/Turning-IFRS-17-into-a-success-story
+2021-09-06 13:14:49,845 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2019/04/finance-and-process-transformation-finding-the-silver-lining-in-IFRS-17
+2021-09-06 13:14:49,880 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2019/01/finance-and-process-transformation-how-to-find-the-silver-lining-in-IFRS-17
+2021-09-06 13:14:49,916 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2018/02/ifrs-17-nine-steps-to-avoiding-a-reporting-crisis
+2021-09-06 13:14:49,945 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2019/07/banishing-the-ifrs17-blues
+2021-09-06 13:14:49,981 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2019/05/IFRS17-a-question-of-timing
+2021-09-06 13:14:50,016 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2018/12/IFRS17-IASB-agrees-to-portfolio-basis-for-presentation-but-opposes-other-changes
+2021-09-06 13:14:50,049 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2020/09/cloud-technology-takes-centre-stage
+2021-09-06 13:14:50,080 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2017/11/emphasis-2017-2-turn-unworkable-reporting-processes-into-unstoppable-systems-successes
+2021-09-06 13:14:50,094 :INFO : test_wtw :['https://www.willistowerswatson.com/en-US/Insights/2020/02/latest-updates-on-ifrs-17-insurance-contracts', 'https://www.willistowerswatson.com/en-US/Insights/2017/01/Turning-IFRS-17-into-a-success-story', 'https://www.willistowerswatson.com/en-US/Insights/2019/04/finance-and-process-transformation-finding-the-silver-lining-in-IFRS-17', 'https://www.willistowerswatson.com/en-US/Insights/2019/01/finance-and-process-transformation-how-to-find-the-silver-lining-in-IFRS-17', 'https://www.willistowerswatson.com/en-US/Insights/2018/02/ifrs-17-nine-steps-to-avoiding-a-reporting-crisis', 'https://www.willistowerswatson.com/en-US/Insights/2019/07/banishing-the-ifrs17-blues', 'https://www.willistowerswatson.com/en-US/Insights/2019/05/IFRS17-a-question-of-timing', 'https://www.willistowerswatson.com/en-US/Insights/2018/12/IFRS17-IASB-agrees-to-portfolio-basis-for-presentation-but-opposes-other-changes', 'https://www.willistowerswatson.com/en-US/Insights/2020/09/cloud-technology-takes-centre-stage', 'https://www.willistowerswatson.com/en-US/Insights/2017/11/emphasis-2017-2-turn-unworkable-reporting-processes-into-unstoppable-systems-successes']
+2021-09-06 13:14:51,251 :INFO : test_wtw :Taking out the string to be validated in each article
+2021-09-06 13:14:51,287 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2019/11/how-to-make-mortality-improvement-assumptions-a-model-of-consistency
+2021-09-06 13:14:51,322 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2017/09/switzerland-changes-to-section-1e-top-up-retirement-plans
+2021-09-06 13:14:51,359 :INFO : test_wtw :https://www.willistowerswatson.com/en-US/Insights/2021/04/powering-growth-strengthening-resilience-helping-insurers-innovate-transform-and-thrive
+2021-09-06 13:14:51,376 :INFO : test_wtw :['https://www.willistowerswatson.com/en-US/Insights/2020/02/latest-updates-on-ifrs-17-insurance-contracts', 'https://www.willistowerswatson.com/en-US/Insights/2017/01/Turning-IFRS-17-into-a-success-story', 'https://www.willistowerswatson.com/en-US/Insights/2019/04/finance-and-process-transformation-finding-the-silver-lining-in-IFRS-17', 'https://www.willistowerswatson.com/en-US/Insights/2019/01/finance-and-process-transformation-how-to-find-the-silver-lining-in-IFRS-17', 'https://www.willistowerswatson.com/en-US/Insights/2018/02/ifrs-17-nine-steps-to-avoiding-a-reporting-crisis', 'https://www.willistowerswatson.com/en-US/Insights/2019/07/banishing-the-ifrs17-blues', 'https://www.willistowerswatson.com/en-US/Insights/2019/05/IFRS17-a-question-of-timing', 'https://www.willistowerswatson.com/en-US/Insights/2018/12/IFRS17-IASB-agrees-to-portfolio-basis-for-presentation-but-opposes-other-changes', 'https://www.willistowerswatson.com/en-US/Insights/2020/09/cloud-technology-takes-centre-stage', 'https://www.willistowerswatson.com/en-US/Insights/2017/11/emphasis-2017-2-turn-unworkable-reporting-processes-into-unstoppable-systems-successes', 'https://www.willistowerswatson.com/en-US/Insights/2019/11/how-to-make-mortality-improvement-assumptions-a-model-of-consistency', 'https://www.willistowerswatson.com/en-US/Insights/2017/09/switzerland-changes-to-section-1e-top-up-retirement-plans', 'https://www.willistowerswatson.com/en-US/Insights/2021/04/powering-growth-strengthening-resilience-helping-insurers-innovate-transform-and-thrive']
+2021-09-06 13:14:51,392 :INFO : test_wtw :String compare is Passed
+2021-09-06 13:14:51,393 :INFO : test_wtw :String compare is Passed
+2021-09-06 13:14:51,393 :INFO : test_wtw :String compare is Passed
+2021-09-06 13:14:51,393 :INFO : test_wtw :String compare is Passed
+2021-09-06 13:14:51,393 :INFO : test_wtw :String compare is Passed
+2021-09-06 13:14:51,393 :INFO : test_wtw :String compare is Passed
+2021-09-06 13:14:51,394 :INFO : test_wtw :String compare is Passed
+2021-09-06 13:14:51,394 :INFO : test_wtw :String compare is Passed
+2021-09-06 13:14:51,394 :INFO : test_wtw :String compare is Passed
+2021-09-06 13:14:51,394 :INFO : test_wtw :String compare is Passed
+2021-09-06 13:14:51,394 :INFO : test_wtw :String compare is Passed
+2021-09-06 13:14:51,395 :INFO : test_wtw :String compare is Passed
+2021-09-06 13:14:51,395 :INFO : test_wtw :String compare is Passed

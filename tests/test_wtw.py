@@ -39,7 +39,7 @@ class TestOne(BaseClass):
         if not (sort_by.text)== "Date":
             log.info("Results need to be sorted by Date")
             resultPage.datesort()
-            log.info("Results are sorted by Date")
+            log.info("Results are sorted by Date now")
         explicit_wait.until(expected_conditions.visibility_of_element_located(
             (By.XPATH, "//div[@aria-label='Inclusion filter on Article; 13 results']")))
         resultPage.filtercontent()
@@ -51,7 +51,7 @@ class TestOne(BaseClass):
         log.info(next_icon.is_displayed())
         while True:
             try:
-                log.info("Taking out the sting to be validated in each article")
+                log.info("Taking out the string to be validated in each article")
                 article = self.driver.find_elements_by_css_selector("div[class='CoveoFieldValue wtw-listing-result-uri'] span")
                 for i in article:
                     log.info(i.text)
