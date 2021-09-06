@@ -17,7 +17,7 @@ class TestOne(BaseClass):
         resultPage = ResultPage(self.driver)
         searchPage.countryoptions()
         searchPage.countryselect()
-        time.sleep(3)
+        time.sleep(1)
         log.info("Select US English Language")
         searchPage.languageselect()
         searchPage.searchoption()
@@ -44,7 +44,6 @@ class TestOne(BaseClass):
             (By.XPATH, "//div[@aria-label='Inclusion filter on Article; 13 results']")))
         resultPage.filtercontent()
         log.info("Filter content by Article")
-        time.sleep(2)
         explicit_wait.until(expected_conditions.visibility_of_element_located(
             (By.XPATH, "//span[@class='coveo-facet-breadcrumb-caption']")))
         list_article=[]
@@ -59,7 +58,7 @@ class TestOne(BaseClass):
                     list_article.append(i.text)
                 log.info(list_article)
                 resultPage.nextpageclick()
-                time.sleep(2)
+                time.sleep(1)
             except:
                 break
 
